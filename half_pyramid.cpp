@@ -13,3 +13,15 @@ int main()
 		cout<<"\n";
 	}
 }
+
+
+
+//output
+
+//Enter the number of rows : 5
+//
+//*
+//*       *
+//*       *       *
+//*       *       *       *
+//*       *       *       *       *
