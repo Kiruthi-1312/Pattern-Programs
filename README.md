@@ -1,5 +1,5 @@
 # Pattern-Programs
-    Patterns using cpp programs
+   Different types Patterns programs in cpp .
 
 
 This repository contains the pattern programs in c plus plus programming language.
