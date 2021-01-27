@@ -5,7 +5,7 @@ int main(){
 	int i,j,n;
 	cout<<"Enter the no of rows : ";
 	cin>>n;
-	for(i=0;i<=n;i++)
+	for(i=1;i<=n;i++)
 	{
 		for(j=1;j<=i;j++)
 		{
@@ -15,9 +15,9 @@ int main(){
 	}
 }
 
+
 // Output 
 //Enter the no of rows : 5
-//
 //1
 //1 2
 //1 2 3
